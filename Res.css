@@ -1,0 +1,388 @@
+@media screen and (max-width:1250px) {
+
+    .animated-description-bar {
+        width: 80%;
+    }
+    #tagline{
+        height: 45vw;
+    }
+    .message-div h2{
+        line-height: 6vw;
+    }
+    .message-div h2{
+    font-size: 4.5vw;
+    line-height:4.5vw ;
+    }
+    #cart h2{
+        font-size: 6vw;
+        line-height: 7vw;
+    }
+}
+@media screen and (max-width:1050px) {
+    #our-impact{
+        flex-direction: column;
+        gap: 40px;
+    }
+    #our-goal{
+        width: 89vw;
+    }
+    #impact-images{
+        justify-content: center;
+    }
+    #impact-images img{
+        height: 55vw;
+        max-width: 60%;
+    }
+    
+}
+@media screen and (max-width:1000px) {
+
+    #product-images-section {   
+        flex-direction: column;
+        gap: 10px;
+    }
+    .product-image{
+        width: 100%;
+    }
+    .animated-description-bar {
+        width: 34vw;
+    }
+    #message1{
+        flex-direction: column;
+        text-align: center;
+        gap: 50px;
+
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+    #right-message{
+        margin: 0px;
+    }
+    #bottom-footer{
+        width: 70vw;
+        margin-left: 12vw;
+    }
+    #tagline {
+        height: 48vw;
+    }
+    .selection p{
+    font-size: 18px;
+    }
+    .selection i{
+    font-size: 12px;
+    }
+    .message-div h2{
+    font-size: 5.3vw;
+    line-height:5.3vw ;
+    }
+    #cart-middle button{
+    width: 24vw;
+    height: 8vh;
+    border-radius: 5vw;
+    }
+
+}
+
+@media screen and (max-width:900px) {
+
+    #tagline {
+        height: 52vw;
+    }
+    
+
+}
+@media screen and (max-width:800px) {
+    .animated-description-bar {
+        width: 50vw;
+    }
+    h2{
+        font-size: 5vw;
+        line-height:5vw;
+    }
+    .products{
+        gap: 10vw;
+    }
+
+    #bottom-footer{
+        width: 80vw;
+        margin-left: 6.3vw;
+    }
+    #cart h2{
+        font-size: 7vw;
+        line-height: 9vw;
+    }
+}
+
+@media screen and (max-width:750px) {
+
+    #top-middle-footer{
+        display: none;
+    }
+    #top-footer{
+        justify-content: space-around;
+    }
+    .align-end{
+        align-items: center;
+    }
+    
+}
+@media screen and (max-width:700px) {
+
+    #right-links{
+        display: none;
+    }
+    #right-icons{
+        gap: 6vw;
+    }
+
+    #tagline{
+        height: 62vw;
+    }
+    .products{
+        gap: 15vw;
+    }
+    #enter-email i{
+        font-size: 18px;
+    }
+    #email{
+        font-size: 3vw;
+    }
+    #cart-middle button{
+    width: 30vw;
+    height: 8vh;
+    border-radius: 6vw;
+    }
+    
+}
+@media screen and (max-width:550px) {
+
+    #tagline {
+        height: 73vw;
+    }
+
+    h2{
+        font-size: 7vw;
+        line-height:7vw;
+    }
+    p{
+        line-height: 17px;
+    }
+    .name-rate{
+        line-height:12px;
+        letter-spacing: 0.2px;
+        width: 37vw;
+    }
+    .name-rate p{
+        font-size: 8px;
+    }
+    .name-rate span{
+        font-size: 10px;
+    }
+    #our-goal{
+
+        gap: 40px;
+    }
+    nav img{
+        width: 15vw;
+    }
+    .animated-description-bar{
+        width: 70%;
+    }
+    .right-section img,.left-section img {
+        width: 90px;
+    }
+    .top-bar{
+        margin-top: 17px;
+    }
+    #enter-email{
+        height: 10vw;
+    }
+    #enter-email i{
+        font-size: 17px;
+    }
+    #email{
+        font-size: 3.5vw;
+        width: 86vw;
+    }
+    #bottom-footer{
+        width: 90vw;
+        margin-left: 1vw;
+        text-align: justify;
+    }
+    .selection p{
+    font-size: 16px;
+    }
+    .selection i{
+    font-size: 8px;
+    }
+    .message-div h2{
+    font-size: 6vw;
+    line-height:6vw ;
+    }
+    #animated-selection{
+    gap:10vw;
+    }
+    #cart-middle button{
+    width: 45vw;
+    height: 8vh;
+    border-radius: 7vw;
+    }
+    #cart-middle p{
+    font-size: 18px;
+    font-weight: 300;
+    }
+    #cart h2{
+        font-size: 8vw;
+        line-height: 9vw;
+    }
+     #cart-middle {
+        margin-top:30vh;
+    }   
+    #animated-text{
+        top: 1vw;
+        left: 53.8vw;
+    }
+    #buy{
+        top: 37%;
+        left: 33%;
+        font-size: 3.2vw;
+    }
+    #text-image{
+        width: 20vw;
+    }
+}
+
+@media screen and (max-width:400px) {
+
+    #tagline {
+        height: 90vw;
+    }
+    .animated-description-bar {
+        width: 65vw;
+    }
+     h2{
+        font-size: 8vw;
+        line-height:8vw;
+    }
+    #left-image{
+        width: 25vw;
+    }
+    nav img{
+        width: 20vw;
+    }
+    #enter-email i{
+        font-size: 15px;
+    }
+    #top-footer{
+        justify-content: space-between;
+    }
+    #bottom-footer{
+        width: 88vw;
+        margin-left: 0;
+    }
+    .right-section img,.left-section img {
+        width: 80px;
+    }
+    .animated-description-bar{
+        width: 80%;
+    }
+    .selection p{
+        font-size: 12px;
+    }
+    #mini-header p{
+        font-size: 8px;
+    }
+    #cart-middle button{
+    width: 50vw;
+    height: 7vh;
+    border-radius: 8vw;
+    }
+     #cart h2{
+        font-size: 11vw;
+        line-height: 12vw;
+    }
+   
+}
+@media screen and (max-width:350px) {
+
+    footer{
+        gap: 40px;
+    }
+    #bottom-footer p{
+        line-height: 20px;
+    }
+    #top-footer{
+        flex-direction: column;
+        align-items: start;
+        gap: 35px;
+    }
+    .align-end{
+        align-items: start;
+    }
+    #cart-middle button{
+    width: 70vw;
+    height: 7vh;
+    border-radius: 15vw;
+    }
+     #cart-middle {
+        margin-top:36vh;
+    }   
+    
+}
+@media screen and (max-width:320px) {
+
+    .animated-product{
+        align-items:center;
+    }
+    .animated-description-bar{
+        width:95%;
+    }
+    .bottom-bar p{
+        font-size: 11px;
+        line-height: 14px;
+    }
+    #bar1 .right-section , #bar1 .left-section{
+        gap: 0px;
+    
+    }
+    #bar1 .bottom-bar img{
+        width: 70px;
+    }
+    
+}
+@media screen and (max-width:300px) {
+
+    #tagline {
+        height: 106vw;
+    }
+    .animated-description-bar {
+        width: 75vw;
+        height: 43px;
+    }
+    .animated-description-bar p{
+        font-size: 11px;
+    }
+    .bottom-bar{
+        display: none;
+    }
+     h2{
+        font-size: 9vw;
+        line-height:9vw;
+    }
+    p{
+        line-height: 14px;
+    }
+    #left-image{
+        width: 25vw;
+    }
+    nav img{
+        width: 22vw;
+    }
+    #enter-email i{
+        font-size: 12px;
+    }
+    #bottom-footer{
+        width: 85vw;
+    }
+
+}
